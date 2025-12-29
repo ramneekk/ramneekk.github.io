@@ -23,7 +23,7 @@ nav_order: 1
 
 <div class="publications">
 
-<h4>Manuscripts in preprations </h4>
+<h4>Manuscripts in prepration</h4>
 
 {% bibliography -q @unpublished %}
 
