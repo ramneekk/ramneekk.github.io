@@ -24,10 +24,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Research Fellow with the [ACT4D]() research group at IIT Delhi, where I have been working for the past two years on using technology to strengthen rural livelihoods. My research focuses on the impact evaluation of Natural Resource Management (NRM) interventions, particularly the construction and maintenance of water harvesting structures (e.g., farm ponds and check dams), and waterbody rejuvenation efforts in rural areas. My work leverages satellite imagery and computational methods to evaluate the effectiveness of these interventions in enhancing agricultural productivity and drought resilience, for the broader aim of informing strategies for sustainable agricultural practices, in the face of climate change. 
+I’m a Computer Science researcher working at the intersection of AI and Geospatial analytics for environmental applications. My current research focuses on climate resilience in the agricultural sector, targeted towards building water security in rural India.
 
-Prior to this, I completed my Ph.D. from [IIIT-Delhi]() in 2022, where my research focused on developing navigation and task allocation algorithms to promote sustainability in urban transportation systems.
+Currently, I am working as a postdoctoral fellow with the [ACT4D](https://www.cse.iitd.ac.in/%7Easeth/advertisement-for-act4d-projects-ethnographic-and-design-research.html) (Appropriate Computing Technologies for Development) research group at IIT Delhi, mentored by [Prof. Aaditeshwar Seth](https://www.cse.iitd.ac.in/%7Easeth/), where I have been working since April, 2023, on using data and technology to strengthen rural livelihoods. 
 
-My broader research interests lie in the use of ICT for social development, with a focus on leveraging computational methods to drive sustainability and equity in both rural and urban contexts.
+My postdoctoral research focuses on the impact evaluation of Natural Resource Management (NRM) interventions, particularly the construction and maintenance of water harvesting structures (e.g., farm ponds and check dams), and waterbody rejuvenation efforts in rural areas. My work leverages satellite imagery and computational methods to evaluate the effectiveness of these interventions in enhancing agricultural productivity and drought resilience, and to perform site suitability analysis, for the broader aim of informing strategies for sustainable agricultural practices, in the face of climate change.
+
+Prior to this, I completed my Ph.D. from IIIT-Delhi in 2022, where my research focused on developing navigation and task allocation algorithms to promote sustainability in urban transportation systems.
+
+My broader research interests lie in the use of ICT for development, with a focus on leveraging computational methods to drive sustainability and equity in both rural and urban contexts.
 
 ---
