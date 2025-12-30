@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: <a href='http://iitd.ac.in'>IIT, Delhi</a>. Delhi, India.
+subtitle: <a href='https://www.iiitd.ac.in/'>IIIT, Delhi</a>. India.
 
 profile:
   align: right
