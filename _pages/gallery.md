@@ -10,10 +10,10 @@ images:
 ---
 
 <div class="gallery">
-    <h2>Digital Agro Advisory</h2>
+    <h2>Designing Inclusive and Scalable Digital Advisory Framework for Climate Resilience</h2>
     <p>
-        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;Date
-        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;Location
+        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;4-5 November 2025
+        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;New Delhi-International Rice Research Institute
     </p>
 
     <div class="spotlight-group">
@@ -30,10 +30,10 @@ images:
 </div>
 
 <div class="gallery">
-    <h2>Epic Workshop</h2>
+    <h2>EPIC (Equity Perpspectives on Irrigation Care or Control?) Workshop</h2>
     <p>
-        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;Date
-        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;Location
+        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;24-25 Nov 2024
+        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;IIT Delhi
     </p>
 
     <div class="spotlight-group">
@@ -53,10 +53,10 @@ images:
 </div>
 
 <div class="gallery">
-    <h2>Geo Smart</h2>
+    <h2>GeoSmart India</h2>
     <p>
-        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;Date
-        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;Location
+        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;16-19 October  2023
+        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;Hyderabad-Geospatial World
     </p>
 
     <div class="spotlight-group">
@@ -73,10 +73,10 @@ images:
 </div>
 
 <div class="gallery">
-    <h2>IIT Kanpur</h2>
+    <h2>India SGC (Sustainable Geocommunities) Event</h2>
     <p>
-        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;Date
-        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;Location
+        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;25 June 2024
+        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;IIT Kanpur Outreach Center
     </p>
 
     <div class="spotlight-group">
@@ -102,10 +102,11 @@ images:
 </div>
 
 <div class="gallery">
-    <h2>IIIT Delhi</h2>
+    <h2>Economics of Groundwater and Irrigation in Asia</h2>
     <p>
-        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;Date
-        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;Location
+        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;October 7, 2025
+
+        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;IIIT-Delhi, New Delhi
     </p>
 
     <div class="spotlight-group">
@@ -116,16 +117,13 @@ images:
 </div>
 
 <div class="gallery">
-    <h2>IIT Bombay</h2>
+    <h2>Data stewardship for climate change through AI</h2>
     <p>
-        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;Date
-        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;Location
+        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;19-20 March 2024
+        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;IIT Bombay, Mumbai
     </p>
 
     <div class="spotlight-group">
-        <a class="spotlight" href="/assets/img/conferences/iit-bombay-workshop/IMG_3183.HEIC">
-            <img src="/assets/img/conferences/iit-bombay-workshop/IMG_3183.HEIC" />
-        </a>
         <a class="spotlight" href="/assets/img/conferences/iit-bombay-workshop/unnamed-6.jpg">
             <img src="/assets/img/conferences/iit-bombay-workshop/unnamed-6.jpg" />
         </a>
@@ -133,10 +131,10 @@ images:
 </div>
 
 <div class="gallery">
-    <h2>jamia-millia-islamia</h2>
+    <h2>Short term training program on AI and ML</h2>
     <p>
-        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;Date
-        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;Location
+        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;11 July 2025
+        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;Jamia Millia Islamia, New Delhi
     </p>
 
     <div class="spotlight-group">
@@ -153,10 +151,10 @@ images:
 </div>
 
 <div class="gallery">
-    <h2>Well Labs</h2>
+    <h2>Monitoring, Evaluation and Learning (MEL) Roundtable</h2>
     <p>
-        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;Date
-        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;Location
+        <i class="fa fa-calendar" aria-hidden="true"></i>&nbsp;16 September 2024
+        <i class="fa fa-building" aria-hidden="true"></i>&nbsp;New Delhi-WELL Labs
     </p>
 
     <div class="spotlight-group">
