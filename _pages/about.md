@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 permalink: /
-subtitle: <strong>Ph.D.</strong> <a href='https://www.iiitd.ac.in/'>IIIT, Delhi, India</a>
+subtitle: <strong>Ph.D.</strong> <a href='https://www.iiitd.ac.in/'>(IIIT, Delhi, India)</a>
 
 profile:
   align: right
