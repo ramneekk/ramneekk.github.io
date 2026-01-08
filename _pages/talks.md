@@ -11,8 +11,8 @@ nav_order: 3
 ---
 * ‘Waterbody Rejuvenation - Decision Support and Impact Assessment’, Landscape Solvability Workshop Edition 2, ANSK School of IT, IIT Delhi, 15 Dec, 2025
 * ‘Paper discussion - Shallow Gains, Deep Losses: The Limits of Uniform Groundwater Regulation’, Workshop on Economics of Groundwater and Irrigation in Asia, IIIT Delhi,  October 7, 2025 [[Photos](/gallery#egwi)]
-* ‘AI/ML for Climate Adaptation and Sustainable Resource Management’, Short term training program AI and ML, Faculty of Computer Engineering, Jamia Millia Islamia, 11 July, 2025 [[Photos](/gallery#jamia)]
-* ‘Impact Assessment of Farm Ponds in North India’, Monitoring, Evaluation and Learning (MEL) Roundtable, organised by WELL Labs, 16 September, 2024,  New Delhi [[Photos](/gallery#well-labs)]
+* ‘AI/ML for Climate Adaptation and Sustainable Resource Management’, Short term training program AI and ML, Faculty of Computer Engineering, Jamia Millia Islamia, 11 July, 2025 [[Photos](/gallery#jamia)] [[Slides](https://drive.google.com/file/d/1Hs5BC2nXrP9QxKYj-vD0cwcpp9sAN7FW/view)]
+* ‘Impact Assessment of Farm Ponds in North India’, Monitoring, Evaluation and Learning (MEL) Roundtable, organised by WELL Labs, 16 September, 2024,  New Delhi [[Photos](/gallery#well-labs)] [[Slides](https://drive.google.com/file/d/1RZywnyuh3_mbH1BvrgQiDMXB_Qp8mD9-/view)]
 * Lecture on ‘Causal Inference for Climate Resilience’, in the course on 'Ethics in Computer Science' offered by Prof. Aaaditeshwar Seth in the Winter 2024 semester at IIT Delhi
 * ‘Commoning for Resilience and Equality (CoRE) stack’ at India SGC (Sustainable Geocommunities) Event, IIT Kanpur Outreach Center, Noida, 25 June, 2024 [[Photos](/gallery#india-sgc)]
 * ‘Commoning for Resilience and Equality (CoRE) stack’ at Data stewardship for climate change through AI held at IIT Bombay, India on March 19-20 ’24, organised by FCDO, UK [[Photos](/gallery#data-stewardship)]
