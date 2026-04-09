@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
-        },{id: "nav-photo-gallery",
-          title: "Photo Gallery",
+        },{id: "nav-gallery",
+          title: "Gallery",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -452,6 +452,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/kramneek", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=mUasV8IAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
