@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /gallery/
-title: Photo Gallery
+title: Gallery
 hide_page_header: true
 nav: true
 nav_order: 4
