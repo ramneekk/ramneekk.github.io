@@ -37,7 +37,7 @@ My broader research interests lie in the use of ICT for development, with a focu
 ------
 
 ## **Research Interests**
-Causal inference, Applied Machine Learning, Natural Resource Management, Impact evaluation, Systems thinking
+Causal inference, Applied Machine Learning, Natural Resource Management, Impact evaluation, Geospatial Analytics, Route planning
 
 ------
 
